@@ -1,0 +1,13 @@
+.list-item {
+	width: 200px;
+	height: 50px;
+	margin: auto;
+	border: 2px solid;
+	border-radius: 10px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	font-size: 25px;
+    margin-top: 20px;
+    background: yellowgreen;
+}

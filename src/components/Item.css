@@ -1,0 +1,32 @@
+.active {
+	width: 200px;
+	height: 100px;
+	margin: auto;
+	border-radius: 10px;
+	border: 2px solid;
+	background: orange;
+	color: black;
+	font-size: 25px;
+	font-weight: bold;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	margin-top: 20px;
+	cursor: pointer;
+}
+.disabled {
+	width: 200px;
+	height: 100px;
+	margin: auto;
+	border-radius: 10px;
+	border: 2px solid;
+	background: grey;
+	color: black;
+	font-size: 25px;
+	font-weight: bold;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	margin-top: 20px;
+	pointer-events: none;
+}
